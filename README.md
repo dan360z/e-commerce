@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/dan360z/e-commerce.svg?branch=master)](https://travis-ci.org/dan360z/e-commerce)
