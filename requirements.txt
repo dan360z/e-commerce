@@ -3,6 +3,7 @@ chardet==3.0.4
 dj-database-url==0.5.0
 Django==1.11.17
 django-forms-bootstrap==3.1.0
+gunicorn==19.7.1
 idna==2.8
 olefile==0.46
 Pillow==5.3.0
